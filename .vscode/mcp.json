@@ -2,7 +2,7 @@
   "servers": {
     "mcp-auth-demo": {
       "type": "http",
-      "url": "https://mcp-auth-demo-smoky.vercel.app/"
+      "url": "https://mcp-auth-demo-smoky.vercel.app/api/mcp"
     },
     "mcp-auth-demo-local": {
       "type": "http",
