@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "mcp-auth-demo": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "mcp-remote",
+        "https://mcp-auth-demo-smoky.vercel.app//api/mcp"
+      ]
+    }
+  }
+}
